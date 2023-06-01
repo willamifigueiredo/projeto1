@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title><u>Página - Módulo I - Primeiros Passos com HTML</title>
+</head>
+
+<body>
+    <h1 style="color:red"id="inicio" ><u> Módulo 1 - Primeiros Passos com HTML</u></h1>
+    <hr />
+
+    <li><a href="#HTML">O que é HTML</a></li>
+    <li><a href="#TAGS">O que são TAGS</a></li>
+    <li><a href="#protocolos">O que são protocolos</a></li>
+    <li><a href="#Diferença">Diferença entre Softwares e Hardwares</a></li>
+    <li><a href="#ordenada">O que é uma lista ordenada e uma lista não ordenada</a></li>
+    <li><a href="#intranet">Diferença entre internet e intranet</a></li>
+    </ul>
+
+    <h2 id="HTML" style="color:blue"><i>O que é HTML</i></h2>
+    <p><strong>A sigla para HyperText Markup Language</strong> , HTML é o componente base da web.
+        Isso quer dizer que ele permite a construção de websites e a inserção de novos conteúdos, como imagens e vídeos,
+        por meio dos hipertextos, é o código que você usa para estruturar uma página web e seu conteúdo.</p>
+        <p>Criado por <abbr title=O HTMl foi criador por Tim Berners-Lee">TimBL</abbr> em 1991.</p>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <h2 id="TAGS" style="color:blue"><i>O que são TAGS</i></h2>
+    <p>A tag HTML de conteúdo é uma marca que define o conteúdo de um documento da respectiva linguagem. Ela envolve o
+        texto e os elementos que aparecem no documento. Tecnicamente, elas são usadas para determinar o tipo de conteúdo
+        que será exibido na página.</p>
+        <small><a href="#inicio">(Voltar)</a></small>
+    <h2 id="protocolos" style="color:blue"><i>O que são protocolos</i></h2>
+    <p>HTTP é um protocolo <sup>(protocol)</sup> que permite a obtenção de recursos, como documentos HTML. É a base de qualquer
+        troca de dados na Web e um protocolo cliente-servidor, o que significa que as requisições são iniciadas pelo
+        destinatário, geralmente um navegador da Web.</p>
+        <small><a href="#inicio">(Voltar)</a></small>
+    <h2 id="Diferença" style="color:blue"><i>Diferença entre Softwares e Hardwares</i></h2>
+    <p>Hardware é o termo usado para se referir a todos os componentes físicos de um computador. Ou seja, é tangível e
+        pode ser tocado e visto. O software, por outro lado, é o conjunto de programas e instruções que fazem o hardware
+        funcionar. Ou seja, é intangível e consiste em códigos e programas.</p>
+    <ul>
+        <h3>1 Softwares</h3>
+        <li>Sistema Operacional</li>
+        <li>Monitoramento</li>
+        <li>Servidor de Web</li>
+   
+    <h3>2 Hardwares</h3>
+    <li>Armazenamento</li>
+    <li>Memoria</li>
+    <li>Processadores</li>
+</ul>
+
+<small><a href="#inicio">(Voltar)</a></small>
+    <h2 id="ordenada"style="color:blue"><i>O que é uma lista ordenada e uma lista não ordenada</i></h2>
+    <p>A principal diferença entre a lista ordenada e a lista não-ordenada está na maneira com que os itens de cada
+        lista são apresentados - a lista ordenada enumera os elementos; a lista não-ordenada coloca marcadores antes de
+        cada elemento.</p>
+        <small><a href="#inicio">(Voltar)</a></small>
+    <h2 id="intranet"style="color:blue"style="color:blue"><i>Diferença entre internet e intranet</i></h2>
+    <p>A forma de acesso: A Internet é uma rede global acessível por qualquer pessoa que possua apenas um telefone
+        celular com um browser instalado. Uma intranet é uma rede privada usada somente por uma organização e seus
+        funcionários, enquanto a extranet permite acesso a um grupo específico de usuários autorizados.
+    Porem prefiro utilizar a <del>intranet</del> <ins>internet</ins></p>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <h2><mark>Links de referências</mark></h2>
+    <p><strong><u>Paginas de referências:</u> </strong> Algumas páginas da WEB usadas durante a pesquisa</p>
+    <blockquote cite="https://pt.wikipedia.org/wiki/HTML">
+        <p>Esta é uma citação tirada da
+        wikipedia.</p>
+    <ol>
+        <li><a href="http://dio.me" target="_blank">Dio.me</a>
+        <li><a href="http://w3c.org" target="_blank">w3c.me</a>
+        <li><a href="https://pt.wikipedia.org/wiki/HTML" target="_blank">wikipedia.me</a>
+    </ol>
+
+</body>
+
+</html>
